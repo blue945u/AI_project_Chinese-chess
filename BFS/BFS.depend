@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1428758945 source:c:\users\tz\desktop\hw01-40147026s\bfs\functions.cpp
+	<iostream>
+	<queue>
+	<ctime>
+	"functions.h"
+
+1428758945 c:\users\tz\desktop\hw01-40147026s\bfs\functions.h
+	<queue>
+
+1428828719 source:c:\users\tz\desktop\hw01-40147026s\bfs\main.cpp
+	<iostream>
+	<queue>
+	<ctime>
+	<stdlib.h>
+	"functions.h"
+
